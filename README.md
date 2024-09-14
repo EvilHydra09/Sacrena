@@ -6,9 +6,8 @@ Secrena is a secure, real-time chat application designed to provide users with a
 
 - **Real-time Messaging**: Exchange messages instantly with friends or groups.
 - **User Authentication**: Secure login via Google authentication (OAuth2).
-- **Push Notifications**: Stay updated with new messages and activities.
 - **Media Sharing**: Share images and files directly in chat.
-- **Custom Themes**: Switch between light and dark mode for a personalized experience.
+- **Custom Themes**: dark mode for a personalized experience.
 
 ## Tech Stack
 
