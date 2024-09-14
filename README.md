@@ -26,4 +26,4 @@ Secrena is a secure, real-time chat application designed to provide users with a
 1. Clone the repository:
    ```bash
    git clone https://github.com/EvilHydra09/Sacrena.git
-   cd secrena-chat-app
+  
