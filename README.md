@@ -33,7 +33,8 @@ Secrena is a secure, real-time chat application designed to provide users with a
 https://github.com/user-attachments/assets/2f3e4078-581a-4f88-a5a8-67c3d0efc6f1
 
 . User Page
-![User](https://github.com/user-attachments/assets/9c059ec6-fd53-453e-804e-db7871b59bf8)
+
+<img src ="![User](https://github.com/user-attachments/assets/9c059ec6-fd53-453e-804e-db7871b59bf8)" width = 400  >
 
 . Message Screen
 ![Message](https://github.com/user-attachments/assets/b2b3a867-4269-423f-bfbe-c1fd5551afd8)
