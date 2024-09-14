@@ -30,29 +30,46 @@ Secrena is a secure, real-time chat application designed to provide users with a
 ## Preview
 
 . Login
-https://github.com/user-attachments/assets/2f3e4078-581a-4f88-a5a8-67c3d0efc6f1
+
+
+
+
+https://github.com/user-attachments/assets/cd579666-c83e-40a5-b43e-1c3a67cb449c
+
 
 . User Page
 
-<img src ="![User](https://github.com/user-attachments/assets/9c059ec6-fd53-453e-804e-db7871b59bf8)" width = 400  >
+<img src ="https://github.com/user-attachments/assets/9c059ec6-fd53-453e-804e-db7871b59bf8" width = 250  >
 
 . Message Screen
-![Message](https://github.com/user-attachments/assets/b2b3a867-4269-423f-bfbe-c1fd5551afd8)
+
+
+<img src ="https://github.com/user-attachments/assets/b2b3a867-4269-423f-bfbe-c1fd5551afd8" width = 250  >
 
 
 ##Feature Preview
 
 1. Pin Message
-![pin](https://github.com/user-attachments/assets/76b17cd3-4604-43e0-b910-ca95282314f9)
 
-2. Reaction
-![reaction](https://github.com/user-attachments/assets/676565d7-cd13-4454-b7ce-4a742ab2f0de)
+   
+<img src ="https://github.com/user-attachments/assets/76b17cd3-4604-43e0-b910-ca95282314f9" width = 250  >
+
+3. Reaction
+
+
+<img src ="https://github.com/user-attachments/assets/676565d7-cd13-4454-b7ce-4a742ab2f0de" width = 250  >
 
 3.Edit Message
-![editMessage](https://github.com/user-attachments/assets/9c8a8365-53d5-423c-b636-312ee7c1d68a)
+
+
+<img src ="https://github.com/user-attachments/assets/9c8a8365-53d5-423c-b636-312ee7c1d68a" width = 250  >
 
 4. Realtime Chatting
-https://github.com/user-attachments/assets/82221384-b0ab-4048-9806-b365fcabaee5
+
+
+
+
+https://github.com/user-attachments/assets/015746ac-5629-4807-a057-0db6975d73c5
 
 
 
