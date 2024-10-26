@@ -1,5 +1,6 @@
 package com.example.chatapplication.presentation.message.component
 
+import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.BoxScope
 import androidx.compose.foundation.layout.size
@@ -47,7 +48,10 @@ public fun MyUserAvatar(
             contentDescription = null,
             modifier = Modifier
                 .size(64.dp)
-                .clip(shape = CircleShape),
+                .clip(shape = CircleShape)
+                .clickable {
+                    onClick?.invoke()
+                },
             contentScale = ContentScale.Crop,
             error = painterResource(id = R.drawable.placeholder),
             fallback = painterResource(id = R.drawable.placeholder),
