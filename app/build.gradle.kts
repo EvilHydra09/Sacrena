@@ -3,15 +3,17 @@ plugins {
     alias(libs.plugins.jetbrains.kotlin.android)
     id("kotlin-kapt")
     id("com.google.dagger.hilt.android")
+    alias(libs.plugins.kotlinx.serialization)
+    id("kotlin-parcelize")
     alias(libs.plugins.google.gms.google.services)
 }
 
 android {
-    namespace = "com.example.loginregisteration"
+    namespace = "com.example.chatapplication"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.loginregisteration"
+        applicationId = "com.example.chatapplication"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
@@ -102,6 +104,7 @@ dependencies {
     implementation(libs.accompanist.insets)
     implementation (libs.accompanist.permissions)
 
-
+    //kotlinx serialization
+    implementation(libs.kotlinx.serialization)
 
 }

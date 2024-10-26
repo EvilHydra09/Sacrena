@@ -4,7 +4,7 @@
     "type": "APK",
     "kind": "Directory"
   },
-  "applicationId": "com.example.loginregisteration",
+  "applicationId": "com.example.chatapplication",
   "variantName": "release",
   "elements": [
     {
